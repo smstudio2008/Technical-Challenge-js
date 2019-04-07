@@ -15,8 +15,6 @@ const generateNumber = function (InputNumber) {
 		return converterAlgorithm(InputNumber);
 
 	}
-
-
 }
 ```
 
